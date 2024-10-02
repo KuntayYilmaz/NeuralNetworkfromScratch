@@ -21,3 +21,10 @@ You can install the required libraries using pip:
 ```bash
 pip install numpy matplotlib tensorflow
 
+To get started with this project, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/KuntayYilmaz/NeuralNetworkfromScratch.git
+   cd NeuralNetworkfromScratch
+
