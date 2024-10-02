@@ -16,7 +16,7 @@ Make sure you have the following libraries installed:
 - `matplotlib`
 - `tensorflow`
   
-## After Training you can predict random images from test set with the model
+## After Training you can predict random images from test set with the Neural Network
 
 ![image](https://github.com/user-attachments/assets/259ec788-e8d3-4422-81da-b4f652060e5c)
 
