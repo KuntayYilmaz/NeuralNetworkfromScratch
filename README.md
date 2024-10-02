@@ -1,4 +1,4 @@
-# Neural Network Implementation for Fashion MNIST
+# Neural Network Implementation for Fashion MNIST just using numpy and python without using Deep Learning frameworks
 
 This repository contains a custom implementation of a neural network using NumPy for the Fashion MNIST dataset. The model features dense layers, activation functions, dropout for regularization, using Adam optimizer. 
 
