@@ -15,12 +15,7 @@ Make sure you have the following libraries installed:
 - `numpy`
 - `matplotlib`
 - `tensorflow`
-
-You can install the required libraries using pip:
-
-```bash
-pip install numpy matplotlib tensorflow
-
+  
 ## After Training you can predict random images from test set with model
 
 ![image](https://github.com/user-attachments/assets/259ec788-e8d3-4422-81da-b4f652060e5c)
